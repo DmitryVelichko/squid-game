@@ -42,4 +42,15 @@ header {
     height: 3px;
     background: #120e0f;
     transform: translateY(-6px);
+    transition: 0.5s;
+}
+
+.toggle::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 3px;
+    background: #120e0f;
+    transform: translateY(6px);
+    transition: 0.5s;
 }
