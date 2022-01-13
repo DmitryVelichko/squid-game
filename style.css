@@ -34,5 +34,6 @@ header {
 
 .toggle::before {
     content: '';
-    
+    position: absolute;
+    width: 20px;
 }
