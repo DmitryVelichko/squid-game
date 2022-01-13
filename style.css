@@ -36,4 +36,6 @@ header {
     content: '';
     position: absolute;
     width: 20px;
+    height: 3px;
+    background: #120e0f;
 }
