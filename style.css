@@ -17,4 +17,10 @@
 
 header {
     position: absolute;
+    top: 40px;
+}
+
+.toggle {
+    position: relative;
+    width: 50px;
 }
