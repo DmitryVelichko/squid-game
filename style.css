@@ -73,4 +73,5 @@ header {
   background: #120e0f url(images/menuBg.jpg);
   background-position: right;
   height: 100vh;
+  background-size: cover;
 }
