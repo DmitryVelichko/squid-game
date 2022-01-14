@@ -46,7 +46,7 @@ header {
 }
 
 .toggle.active::before {
-    transform: translateY(-6px);
+    transform: translateY(0) rotate(45deg);
 }
 
 .toggle::after {
@@ -57,4 +57,8 @@ header {
     background: #120e0f;
     transform: translateY(6px);
     transition: 0.5s;
+}
+
+.toggle.active::after {
+    transform: translateY(0) rotate(-45deg);
 }
