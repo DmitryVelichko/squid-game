@@ -84,3 +84,8 @@ header {
   align-items: flex-end;
   flex-direction: column;
 }
+
+.navigation li {
+  list-style: none;
+  margin: 4px 0;
+}
