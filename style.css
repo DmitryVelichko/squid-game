@@ -93,4 +93,6 @@ header {
 .navigation li a {
   color: #fff;
   font-size: 2em;
+  letter-spacing: 0.05em;
+  text-decoration: none;
 }
