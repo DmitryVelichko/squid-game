@@ -98,3 +98,7 @@ header {
   font-weight: 600;
   text-transform: uppercase;
 }
+
+.navigation li a:hover {
+  color: #e83c80;
+}
