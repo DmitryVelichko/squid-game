@@ -95,4 +95,6 @@ header {
   font-size: 2em;
   letter-spacing: 0.05em;
   text-decoration: none;
+  font-weight: 600;
+  text-transform: uppercase;
 }
