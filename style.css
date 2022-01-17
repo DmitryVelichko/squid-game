@@ -89,3 +89,8 @@ header {
   list-style: none;
   margin: 4px 0;
 }
+
+.navigation li a {
+  color: #fff;
+  font-size: 2em;
+}
