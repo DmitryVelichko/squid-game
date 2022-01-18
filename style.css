@@ -118,5 +118,6 @@ header {
 .content p {
   color: #fff;
   font-size: 1.2em;
- 
+  line-height: 1.75em;
+  font-weight: 300;
 }
