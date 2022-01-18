@@ -127,4 +127,6 @@ header {
   background: #e83c80;
   color: #fff;
   padding: 10px 18px;
+  display: inline-flex;
+  margin-top: 20px;
 }
