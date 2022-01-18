@@ -107,5 +107,10 @@ header {
 
 .content {
   position: relative;
-  width: 700px;
+  max-width: 700px;
+}
+
+.content .textimg {
+  max-width: 600px;
+  width: 100%;
 }
