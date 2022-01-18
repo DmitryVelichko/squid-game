@@ -114,3 +114,9 @@ header {
   max-width: 600px;
   width: 100%;
 }
+
+.content p {
+  color: #fff;
+  font-size: 1.2em;
+ 
+}
