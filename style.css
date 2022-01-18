@@ -125,4 +125,6 @@ header {
 .btn {
   position: relative;
   background: #e83c80;
+  color: #fff;
+  padding: 10px 18px;
 }
