@@ -138,3 +138,8 @@ header {
 .btn:hover {
   background: #d43071;
 }
+
+.btn ion-icon {
+  font-size: 2em;
+  margin-right: 5px;
+}
