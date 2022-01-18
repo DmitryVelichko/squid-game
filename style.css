@@ -104,3 +104,8 @@ header {
 .navigation li a:hover {
   color: #e83c80;
 }
+
+.content {
+  position: relative;
+  width: 700px;
+}
