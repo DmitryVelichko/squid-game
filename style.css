@@ -128,8 +128,13 @@ header {
   color: #fff;
   padding: 10px 18px;
   display: inline-flex;
+  align-items: center;
   margin-top: 20px;
   font-size: 1.1em;
   font-weight: 400;
   text-decoration: none;
+}
+
+.btn:hover {
+  background: #d43071;
 }
