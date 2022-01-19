@@ -159,3 +159,8 @@ header {
   height: 220px;
   border: 8px solid #fff;
 }
+
+.clip .clipBox img {
+  position: absolute;
+  top: 0;
+}
