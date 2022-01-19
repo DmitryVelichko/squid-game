@@ -147,4 +147,6 @@ header {
 .clip {
   position: absolute;
   right: 100px;
+  bottom: 40px;
+  display: flex;
 }
