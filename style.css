@@ -156,4 +156,6 @@ header {
 .clip .clipBox {
   position: relative;
   width: 340px;
+  height: 220px;
+  border: 8px solid #fff;
 }
