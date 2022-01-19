@@ -159,6 +159,11 @@ header {
   height: 220px;
   border: 8px solid #fff;
   border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
 }
 
 .clip .clipBox img {
