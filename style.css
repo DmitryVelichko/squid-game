@@ -143,3 +143,8 @@ header {
   font-size: 2em;
   margin-right: 5px;
 }
+
+.clip {
+  position: absolute;
+  right: 100px;
+}
