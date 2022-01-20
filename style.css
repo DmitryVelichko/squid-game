@@ -233,4 +233,7 @@ header {
     bottom: initial;
     left: initial;
   }
+  .navigation {
+    padding-right: 40px;
+  }
 }
