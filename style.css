@@ -189,4 +189,15 @@ header {
   bottom: 40px;
   left: 100px;
   display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.socialIcon li {
+  list-style: none;
+}
+
+.socialIcon li a {
+  font-size: 2em;
+  color: #fff;
 }
