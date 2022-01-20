@@ -225,5 +225,10 @@ header {
     position: relative;
     right: initial;
     bottom: initial;
+    margin: 40px 0;
+  }
+
+  .socialIcon {
+    position: relative;
   }
 }
