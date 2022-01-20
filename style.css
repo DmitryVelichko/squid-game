@@ -174,3 +174,8 @@ header {
   height: 100%;
   object-fit: cover;
 }
+
+.clip .clipBox ion-icon {
+  font-size: 4em;
+  color: #fff;
+}
