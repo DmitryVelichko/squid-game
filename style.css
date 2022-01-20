@@ -163,7 +163,7 @@ header {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-
+  background: #e83c80;
 }
 
 .clip .clipBox img {
