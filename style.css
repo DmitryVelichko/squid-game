@@ -230,5 +230,7 @@ header {
 
   .socialIcon {
     position: relative;
+    bottom: initial;
+    left: initial;
   }
 }
