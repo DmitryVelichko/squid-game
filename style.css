@@ -24,6 +24,10 @@ header {
   align-items: center;
 }
 
+.logo {
+  max-width: 120px;
+}
+
 .toggle {
   position: relative;
   width: 50px;
@@ -190,7 +194,7 @@ header {
   left: 100px;
   display: flex;
   align-items: center;
-  gap: 40px;
+  gap: 20px;
 }
 
 .socialIcon li {
@@ -200,4 +204,8 @@ header {
 .socialIcon li a {
   font-size: 2em;
   color: #fff;
+}
+
+.socialIcon li a:hover {
+  color: #e83c80
 }
