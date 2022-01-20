@@ -175,6 +175,10 @@ header {
   object-fit: cover;
 }
 
+.clip .clipBox:hover img {
+  opacity: 0.4;
+}
+
 .clip .clipBox ion-icon {
   font-size: 4em;
   color: #fff;
