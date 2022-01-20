@@ -183,3 +183,10 @@ header {
   font-size: 4em;
   color: #fff;
 }
+
+.socialIcon {
+  position: absolute;
+  bottom: 40px;
+  left: 100px;
+  display: flex;
+}
